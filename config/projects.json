@@ -8,7 +8,8 @@
     "isPublic": true,
     "currentLesson": 1,
     "runTestsOnWatch": true,
-    "isResetEnabled": true
+    "isResetEnabled": true,
+    "numberOfLessons": 103
   },
   {
     "id": 1,
@@ -19,7 +20,8 @@
     "isPublic": true,
     "currentLesson": 1,
     "runTestsOnWatch": true,
-    "isResetEnabled": true
+    "isResetEnabled": true,
+    "numberOfLessons": 133
   },
   {
     "id": 2,
@@ -30,7 +32,8 @@
     "isPublic": true,
     "currentLesson": 1,
     "runTestsOnWatch": true,
-    "isResetEnabled": true
+    "isResetEnabled": true,
+    "numberOfLessons": 113
   },
   {
     "id": 3,
